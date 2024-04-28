@@ -122,7 +122,7 @@
 				<div class="form-group">
 					<label>Full Name: </label>
 					<div class="position-relative has-icon-left">
-						<input type="text" id="fullname" class="form-control" placeholder="mushe abdul-hakim" name="fullname">
+						<input type="text" id="fullname" class="form-control" placeholder="haiqal" name="fullname">
 						<div class="form-control-position">
 							<i class="ft-user"></i>
 						</div>
